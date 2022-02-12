@@ -1,0 +1,4 @@
+cd C:\xampp\htdocs\service-cdn
+git add .
+git commit -m "SSS"
+git push origin main
